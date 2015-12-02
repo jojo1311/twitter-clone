@@ -1,4 +1,10 @@
 # twitter-clone
-Ruby on Rails - Twitter Clone using ReactJS as a Front-end
+#Twitter Clone App
 
-Database: Postgresql
+- ReactJS and Flux as a Front-end
+
+- Rails as API backend server
+
+- Database: Postgresql
+
+- Webpack and BabelJS for ES6
